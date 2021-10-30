@@ -1,0 +1,57 @@
+Git:
+
+
+Iniciar repositorio git
+git init
+
+Configurar Usuario
+git config user.name "nombreUsuario"
+
+Configurar Email
+git config user.mail "mail@mail.com"
+
+Agregar archivos o carpetas en seguimiento
+git add nombre archivo
+
+Ver estado de los archivos en el commit
+git status
+
+Agrega todos los archivos a seguimiento
+git add .
+
+Guardar los cambios realizados en los archivos en seguimiento
+git commit -m "mensaje de lo realizado"
+
+Sacar archivo de seguimiento
+git rm
+
+Muestra los commit con los mensajes del versionado
+git log
+
+El comando para crear una rama
+git branch nombre_rama
+
+Para posicionarse en esa rama el comando es 
+git checkout nombre_rama
+
+Para subir cambios a la rama creada es 
+git push -u origin nombre_rama
+
+Configurar Usuario y Email de manera global
+git config --global user.name "nombre de usuario"
+git config --global user.email email@email.com
+
+Ver Archivo de configuración de .git
+git config --list
+
+Agregar repositorio remoto
+git remote add origin https://....
+
+Descargar actualizaciones del repositorio remoto 
+git pull origin rama
+
+clonar repositorio remoto
+git clone https://...
+
+Unir información de una rama con otra posicionándose en la rama donde se quiere traer la info.
+git merge nombreRama
