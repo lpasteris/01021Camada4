@@ -1,0 +1,6 @@
+A.Git es un sistema de control de versiones distribuido que, como ya hemos introducido, fue creado por Linus Torvalds en 2005 para ser utilizado en el desarrollo del kernel de Linux. Git es un software escrito en C, con interfaz por lí­nea de comandos, disponible para Windows, MacOS X y GNU/Linux. En la actualidad, existen además multitud de clientes gráficos y herramientas basadas en git.
+
+B.Es propiedad de Microsoft Corporation. Con la compra de GitHub, Microsoft se hizo con la comunidad mas grande de desarrolladores del planeta.
+
+C.https://desktop.github.com/
+GitHub Desktop es una aplicación que te permite interactuar con GitHub usando una GUI en lugar de la línea de comandos o un navegador web. ... Puede enviar, extraer y clonar repositorios remotos con GitHub Desktop y utilizar herramientas de colaboración como atribuir confirmaciones y crear solicitudes de extracción.
