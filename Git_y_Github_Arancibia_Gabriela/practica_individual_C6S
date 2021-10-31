@@ -1,0 +1,13 @@
+1) ¿¿Quién inventó el sistema de control de versión Git y por qué?
+Git es un sistema de control de versiones que fue creado por Linus Torvalds en 2005 para ser utilizado en el desarrollo del kernel de Linux.
+El núcleo o kernel es la parte central de un sistema operativo y es el que se encarga de realizar toda la comunicación segura entre el software y el hardware del ordenador. El núcleo kernel es la parte más importante del sistema operativo Unix y sus derivados, como Linux y todas las distribuciones que dependen de él.
+Originalmente, la comunidad de desarrolladores de Linux utilizaba BitKeeper, un sistema de control de versiones distribuido y comercial, aunque gratuito para proyectos de código abierto. Como el propio Linus Torvalds explica, BitKeeper suponía un gran paso adelante comparado con otros SCMs como CVS y Subversion y, sin duda, inspiró muchos de los conceptos en los que se basa git (especialmente el ser un sistema distribuido).
+
+Sin embargo, el hecho de ser un software propietario y despues de ciertos desacuerdos con su creador, Larry McVoy, llevaron a Linus Torvalds a decantarse por buscar un nuevo sistema de control de versiones. Tras probar muchas de las soluciones existentes y descubrir que ninguna cumplí­a con sus requisitos, Torvalds decidió diseñar e implementar su propio sistema de control de versiones. Tan sólo un dia después ya había desarrollado las bases de git para poder auto-gestionar el propio código de git en git y, una semana después, ya tenía una primera versión. Resulta curioso que en la primera mención pública de git, Torvalds describe git no como un sistema de control de versiones sino simplemente como una herramienta de distribución y archivado de ficheros.
+
+2)¿A quién pertenece actualmente Github y por qué?
+El 1 de junio del 2018,  Microsoft compra GitHub por 7.500 millones de dólares.
+La compra de GitHub ha hecho que Microsoft alcance una posición privilegiada en el mundo de la programación. La multimillonaria jugada convierte a Microsoft en la empresa que más contribuye al open source del mundo. Esto indica que el objetivo más inmediato de Microsoft es ofrecer una experiencia integral y atractiva a los programadores y desarrolladores.
+
+3)¿Hay otra forma que no sea la terminal para trabajar con Github?
+Tambien se puede usar desde Visual Studio Code.
