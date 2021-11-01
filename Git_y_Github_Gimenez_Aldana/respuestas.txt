@@ -1,0 +1,1 @@
+1) El creador fue Linus Torvalds y lo creo porque en lugar de tener un único espacio para todo el historial de versiones del software
