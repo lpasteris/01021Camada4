@@ -1,0 +1,35 @@
+﻿En la mesa de trabajos realizamos la siguiente consigna en la máquina 
+virtual creada: 
+
+
+*  Crear un archivo en Google Documents o Word en la computadora.
+*  Investigar y contestar las siguientes preguntas. 
+* ¿Que es un usuario root en   Linux? 
+* ¿Por qué ubuntu no me deja establecer la contraseña de usuario root durante la instalación? 
+
+
+En Linux el usuario root es aquel que tiene todos los permisos en el sistema operativo, es decir, es el súper administrador. Puede acceder a cualquier archivo y también ejecutar cualquier comando. 
+
+
+No te deja debido a razones de seguridad. Al ingresar por primera vez el sistema operativo te da acceso desde modo usuario (de trabajo) para evitar el uso de comandos que puedan dejar al sistema inutilizable, los cuales solo se puede usar con el modo root. 
+
+
+* ¿Cuáles son los procesos típicos de Linux?¿Cómo identificarlos?. 
+Un proceso en linux es una serie de instrucciones que vienen de un programa que está en ejecución, existen diferentes elementos que incorpora un proceso como la prioridad de ejecución del proceso que le indica a Linux cuanto CPU utilizar y el tiempo máximo de ejecución del proceso.
+Cuando Linux se ejecuta, el kernel de Linux tiene la primera prioridad de ejecución, conocida como PID 1 (Process ID). Las versiones modernas de Linux utilizan systemd que intenta coordinar la manera en que los procesos son manejados. Como comentamos PID1 es el proceso padre, todos los demás procesos ejecutados a partir de este son procesos hijos.
+Para ver los procesos en sistemas Linux, contamos con el comando ‘ ps ’, que listará (de múltiples formas según las opciones que le pasemos) todos los procesos que se encuentran corriendo en nuestro equipo. 
+Top es otro gestor de procesos integrado en la mayoría de sistemas Linux. Mientras que ps nos muestra un listado de procesos estático, es decir, nos informa de los procesos, nombres, usuarios o recursos que se están usando en el momento de la petición; top nos da un informe en tiempo real de los mismos.
+
+
+*  Investigar y establecer una contraseña para el usuario root.
+Cuando la ventana de la Terminal se ha abierto, escribir el comando sudo su  y presione el botón enter en el teclado de su PC, para establecer una contraseña para la cuenta raíz de Ubuntu.
+Primero deberá ingresar la contraseña de su cuenta personal (con la que está conectado actualmente) y luego escribir el comando passwd root para crear la contraseña (dos veces seguidas).  e iniciar sesión como root.
+Subir el documento de manera individual en la mochila. 
+
+
+                Opcional:
+* Escribir en la terminal el comando apt install cowsay.
+*  Escribir en la terminal el comando cowsay “ Hola mundo “.        
+* Escribir en la terminal el comando sudo apt install fortune
+* Escribir en la terminal  fortune. 
+* fortune | cowsay
