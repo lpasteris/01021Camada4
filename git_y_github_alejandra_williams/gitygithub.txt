@@ -1,0 +1,8 @@
+¿Quien inventó el sistema de control de version y por qué?
+Lo inventó Linus Torvalds en el 2005, se crea por la necesidad de llevar un registro de los cambios de archivos de un trabajo entre varias personas compartidos en un repositorio de código. En el 2005, la relación entre la comunidad que desarrollaba el kernel de Linux y la compañía que desarrollaba BitKeeper se vino abajo y la herramienta dejó de ser ofrecida de manera gratuita. Esto impulsó a la comunidad de desarrollo de Linux (y en particular a Linus Torvalds, el creador de Linux) a desarrollar su propia herramienta.
+
+¿A quién pertenece actualmente GitHub y por qué?
+Pertenece a Microsoft, se realiza la compra mas que todo por Microsoft Azure, con el crecimiento de los clud services, Microsoft tiene que competir con Amazon con AWS. debido a esto; necesita contacto directo con los desarrolladores que trabajan en esos servicios, ver sus necesidades y ofrecerles herramientas que faciliten su integración con Azure.
+
+¿Hay otra forma; que no sea la terminal, para trabajar en GitHub?
+Si, a traves de la aplicación de GitHub.
