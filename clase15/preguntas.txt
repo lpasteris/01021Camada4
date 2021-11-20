@@ -2,7 +2,7 @@
 
  Porque los lenguajes de bajo tienen mas aprovechamiento del hardware por ende sirven para sistemas operativos.
 
-2) Pertenece al tipo de maquinas virtuales de proceso(Process Virtual Machine), virutal box es tambien denominado hipervisor de tipo 2.
+2) Pertenece al tipo de maquinas virtuales de sistema(sistem Virtual Machine), virutal box es tambien denominado hipervisor de tipo 2.
 
 3) No no afecta a las demas ya que cada maquina virtual se crea de manera independiente a las demas.
 esto sucede debido a que las maquinas virtuales de ejecutan en un mismo servidor pero cada instancia se da de forma separada asi no afecta el funcionamiento del resto.  
