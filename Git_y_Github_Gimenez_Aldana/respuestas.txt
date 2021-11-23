@@ -1,1 +1,3 @@
-1) El creador fue Linus Torvalds y lo creo porque en lugar de tener un único espacio para todo el historial de versiones del software
+1) El creador fue Linus Torvalds y lo creo porque en lugar de tener un único espacio para todo el historial de versiones del software.
+2) El 4 de junio de 2018, Microsoft anunció la compra de la plataforma.
+3) Si,se puede trabajar desde distintos proogramas.
