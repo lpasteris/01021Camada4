@@ -1,0 +1,139 @@
+$ ls Lista archivos en el
+directorio o carpeta
+$ ls -a Lista todos los archivos,
+incluyendo los archivos
+ocultos
+$ ls -l Muestra toda la
+información de una
+carpeta: usuario, grupo,
+permisos, tamaño, fecha
+y hora de creación.
+$ ls -R Muestra las carpetas y
+los archivos contenidos
+en ellos de manera
+recursiva
+
+$ pwd
+
+Muestra la carpeta en la
+que se está trabajando
+actualmente
+
+more
+[Nombre del
+archivo]
+
+Muestra el contenido de
+un archivo
+
+Crear
+$ mkdir
+[Carpeta]
+
+Crea una nueva
+directorio o carpeta
+
+$ touch
+[Nombre del
+archivo]
+
+Crea un nuevo archivo
+
+Eliminar
+$ rm [Nombre
+del archivo]
+
+Elimina un archivo
+
+$ rmdir
+[Nombre de la
+carpeta]
+
+Elimina una carpeta
+vacía
+
+$ rm -r
+[Nombre de la
+carpeta]
+
+Elimina una carpeta y
+su contenido
+$ mv
+[ruta/archivo1]
+[ruta/archivo2]
+
+Renombra archivos
+(archivo2 no debe existir
+o será sobreescrito)
+
+$ mv
+[ruta/carpeta1]
+[ruta/carpeta2]
+
+Renombra la carpeta1
+como carpeta2 (carpeta
+2 no debe existir)
+
+$ mv
+[ruta/carpeta1]
+[ruta/carpeta2]
+
+Mueve contenido de
+carpeta1 a carpeta2
+(carpeta 2 debe existir)
+
+$ cp
+[ruta/archivo1]
+[ruta/archivo2]
+$ cp
+[ruta/archivo1]
+[ruta/archivo2]
+
+Copia un archivo o
+carpeta
+
+opción: -r
+
+Indica que copie
+recursivamente el
+contenido de las
+subcarpetas
+
+Navegación entre carpetas
+$ cd Sube un nivel de carpeta
+$ cd Cambia de carpeta
+$ cd/chosen/
+directory
+
+Cambia a una carpeta
+específica
+
+Otros comandos
+$ clear Limpia la pantalla de la
+
+terminal
+
+$ comando
+--help
+
+Muestra ayuda del
+comando
+
+Atajos de teclado
+$ ctrl + c Finaliza un proceso
+vigente que está
+corriendo en la
+terminal
+
+$ ctrl + l Limpia la pantalla de la
+
+termina
+
+Caracteres especiales
+“” (comillas) Nos permiten utilizar
+términos que consistan
+en más de una palabra
+. (el punto) Permite hacer
+referencia al directorio
+donde estamos
+ubicados actualmente
