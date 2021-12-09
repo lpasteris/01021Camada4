@@ -1,9 +1,0 @@
-Clonar un repositorio existente
-git clone git@github.com:minombre/archivo-git.git
-
-Cuando creas un repositorio en GitHub.com, este existe como un repositorio remoto. Puedes clonar tu repositorio para crear una copia local en tu computadora y sincronizarla entre las dos ubicaciones.
-
-CREAR UN NUEVO REPOSITORIO LOCAL
-git init
-Para crear un nuevo repositorio, usa el comando git init . git init es un comando que se utiliza una sola vez durante la configuración inicial de un repositorio nuevo.
-Para iniciar un repositorio local debes crear una carpeta ubicarte dentro de la carpeta desde Git Bash y escribir el comando git init. 
