@@ -1,0 +1,9 @@
+
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?
+Respuesta: Porque no todos los sistemas operativos fueron creados bajo el mismo lenguaje. POr ejemplo el lenguage C++, es hoy en día el lenguaje de programación de aplicaciones más común en el sistema operativo Microsoft Windows, mientras que C sigue siendo más popular en el entorno Unix. Es común tomar un sistema operativo base y realizar desarrollo sobre él para crear diferentes distribuciones.
+
+¿Qué tipo de máquina virtual es virtualBox?
+Respuesta: Es un software para virtualización, tambien conocido como hipervisor de tipo 2, que se utilizar para virtualizar sistemas operativos dentro de nuestro ordenador existente, creando lo que se conoce como máquina virtual.
+
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+Respuesta: No, porque cada máquina usa su propiodisco duro virtual y la imagen iso solo la utilizan para la instalación inicial del sistema operativo.
