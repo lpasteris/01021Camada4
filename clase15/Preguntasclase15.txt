@@ -1,0 +1,11 @@
+﻿Con toda la mesa de trabajo debatan sobre las siguientes preguntas y contesten en conjunto: 
+* ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?. 
+R: Porque un lenguaje de programación compila a lenguaje ensamblador el cual es ejecutado por el sistema operativo, este lenguaje ensamblador depende de 2 cosas, de la arquitectura del procesador y la interpretación que le de el sistema operativo. Si en la computadora cambia la arquitectura del procesador el lenguaje ensamblador es totalmente diferente y no va a correr.
+
+
+
+
+* ¿Qué tipo de máquina virtual es virtualBox?. 
+R: VirtualBox es un software para virtualización, también conocido como hipervisor de tipo 2, que se utiliza para virtualizar sistemas operativos dentro de nuestro ordenador existente, creando lo que se conoce como máquina virtual.
+* Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+R: No se afectan las demas maquinas teniendo en cuenta que son máquinas diferentes, aunque al dañarse una puede que se libere capacidad para las demas.

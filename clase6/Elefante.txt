@@ -1,0 +1,9 @@
+Los elefantes o elefántidos (Elephantidae) son una familia de mamíferos placentarios del orden Proboscidea.
+ Antiguamente se clasificaban, junto con otros mamíferos de piel gruesa, en el orden, ahora inválido, de los paquidermos
+  (Pachydermata). Existen hoy en día tres especies y diversas subespecies. Entre los géneros extintos de esta familia destacan los mamuts.
+
+<<<<<<< HEAD
+  Sara Lopez Hernandez 
+=======
+Yaritza Romero Agudelo
+>>>>>>> 203415c6b52a3dc96c265636166af0e67f0af9fd
