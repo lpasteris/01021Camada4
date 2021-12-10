@@ -1,0 +1,18 @@
+git config user.name --> poner tu nombre de usuario en tu repositorio
+git config user.email --> poner tu email en tu repositorio
+git init --> crear un nuevo repositorio
+git status --> verificar el estado de nuestros archivos/directorios
+git add . --> añadir todos los archivos a la staging area
+git commit -m --> comitear un archivo o directorio con un mensaje descriptivo
+git rm --> elimina un archivo
+git rm -r --> elimina un directorio y los archivos dentro
+git log --> muestra el historial de commits
+git pull --> actualiza nuestro repositorio bajando los archivos del repositorio remoto
+git clone --> clona un repositorio ya existente
+ls --> lista de archivos dentro de un directorio
+ls -a --> lista de archivos dentro de un repositorio incluyendo los ocultos
+mkdir --> crea una nueva carpeta
+touch --> crea un nuevo archivo
+cd --> entras a una carpeta
+cd --> volves una carpeta atras
+
