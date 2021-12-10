@@ -1,0 +1,7 @@
+1. El lenguaje de programación solo puede utilizarse en algunos sistemas operativos 
+Y otros no, debido a que se configuran según las necesidades de cada sistema y cuentan 
+Ya sea con un alto grado de complejidad o con seguridad definida para cada una de las maquinas en dónde se encuentren.
+
+2. La maquina virtual Virtual Box, es una máquina de sistema, mas precisamente una tipo 2, ya que maneja o replica todo un sistema completo que por sus características se vuelve o funciona mas lento.
+
+3. Al tener diferentes tipos de maquinas instaladas y si una se rompe, esto no afecta a ninguna de las que se encuentran allí, ya que estas funcionan de manera independiente y solo cuando se encienden dan sus procesos internos correspondientes y no al resto.
