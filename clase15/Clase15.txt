@@ -1,0 +1,8 @@
+1. ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?
+La pregunta está mal formulada, pues no es cierto que haya lenguajes de programación que no puedan ejecutarse en un SO. Se puede trabajar con cualquier lenguaje, siempre y cuando se hayan instalado los requerimientos mínimos del lenguaje. Adempas, son los mismos lenguajes de programación ls que permiten a los humanos comunicarnos con las máquinas. 
+
+2. ¿Qué tipo de máquina virtual es VirtualBox?
+VirtualBox no es una máquina virtual. VirtualBox es un software de virtualización. Es decir, permite crear máquinas virtuales. 
+
+3. ¿SI tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿Por qué? 
+No. Porque las máquinas creadas son independientes unas de otras, es decir, romper una no tendrá ningún efecto sobre las otras, pues son independientes. 
